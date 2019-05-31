@@ -1,0 +1,207 @@
+<div id="wrap">
+
+       <div class="header">
+       		<div class="logo"><a href="index.html"><img src="images/logo.png" alt="" title="" border="0" /></a></div>            
+        <div id="menu">
+            <ul>                                                                       
+            <li class="selected"><a href="index.html">&#20027;&#39029;</a></li>
+            <li><a href="about.html">&#20851;&#20110;&#25105;&#20204;</a></li>
+            <li><a href="category.html">&#20135;&#21697;&#20998;&#31867;</a></li>
+            <li><a href="specials.html">&#29305;&#21035;&#25512;&#33616;</a></li>
+            <li><a href="myaccount.html">&#25105;&#30340;&#35746;&#21333;</a></li>
+            <li><a href="register.html">&#27880;&#20876;</a></li>
+            <li><a href="details.html">&#28909;&#21334;&#20135;&#21697;</a></li>
+            <li><a href="contact.html">&#32852;&#31995;&#25105;&#20204;</a></li>
+           
+            
+            </ul>
+        </div>     
+            
+            
+       </div> 
+       
+       
+       <div class="center_content">
+       	<div class="left_content">
+        	
+            <div class="title"><span class="title_icon"><img src="images/bullet1.gif" alt="" width="38" height="24" title="" /></span>&#29305;&#33394;&#20135;&#21697;</div>
+        
+        	<div class="feat_prod_box">
+            
+            	<div class="prod_img"><a href="details.html"><img src="images/prod1.gif" alt="" width="104" height="110" title="" border="0" /></a></div>
+                
+                <div class="prod_det_box">
+                	<div class="box_top"></div>
+                    <div class="box_center">
+                    <div class="prod_title">&#31616;&#20171;</div>
+                    <p class="details"> &#32043;&#32599;&#20848;&#65292;&#21407;&#20135;&#22320;&#20013;&#28023;&#27839;&#23736;&#12290;&#30446;&#21069;&#25105;&#22269;&#21335;&#37096;&#22320;&#21306;&#24191;&#27867;&#26685;&#22521;&#12290;</p>
+                    <p class="details">&#20026;&#21313;&#23383;&#33457;&#31185;&#32043;&#32599;&#20848;&#23646;&#19979;&#30340;&#21508;&#20010;&#31181;&#30340;&#26893;&#29289;&#30340;&#32479;&#31216;&#12290; </p>
+                    <a href="details.html" class="more">- &#35814;&#32454; -</a>
+                    <div class="clear"></div>
+                    </div>
+                    
+                    <div class="box_bottom"></div>
+                </div>    
+            <div class="clear"></div>
+            </div>	
+            
+            
+        	<div class="feat_prod_box">
+            
+            	<div class="prod_img"><a href="details.html"><img src="images/prod2.gif" alt="" width="94" height="136" title="" border="0" /></a></div>
+                
+                <div class="prod_det_box">
+                	<div class="box_top"></div>
+                    <div class="box_center">
+                    <div class="prod_title">&#31616;&#20171;</div>
+                    <p class="details"> &#37057;&#37329;&#39321;&#30340;&#26412;&#24847;&#26159;&#19968;&#31181;&#33457;&#21321;&#65292;&#22312;&#26893;&#29289;&#20998;&#31867;&#23398;&#19978;&#65292;&#26159;&#19968;&#31867;&#23646;&#20110;&#30334;&#21512;&#31185;&#37057;&#37329;&#39321;&#23646;&#30340;&#20855;&#29699;&#33550;&#33609;&#26412;&#26893;&#29289;&#12290;&#26159;&#33655;&#20848;&#30340;&#22269;&#33457;&#12290;&#20063;&#26377;&#20197;&#37057;&#37329;&#39321;&#20026;&#39064;&#30340;&#35799;&#35789;&#12290; </p>
+                    <a href="details.html" class="more">- &#35814;&#32454; -</a>
+                    <div class="clear"></div>
+                    </div>
+                    
+                    <div class="box_bottom"></div>
+                </div>    
+            <div class="clear"></div>
+            </div>      
+            
+            
+            
+           <div class="title"><span class="title_icon"><img src="images/bullet2.gif" alt="" width="52" height="29" title="" /></span>  &#26032;&#21697;</div> 
+           
+           <div class="new_products">
+           
+                    <div class="new_prod_box">
+                        <a href="details.html">&#29233;&#24515;&#31881;&#29611;&#29808;</a>
+                        <div class="new_prod_bg">
+                        <span class="new_icon"><img src="images/new_icon.gif" alt="" title="" /></span>
+                        <a href="details.html"><img src="images/thumb1.gif" alt="" width="131" height="98" class="thumb" title="" border="0" /></a>
+                        </div>           
+                    </div>
+                    
+                    <div class="new_prod_box">
+                      <a href="details.html">&#29233;&#24515;&#24039;&#20811;&#21147;&#29611;&#29808;</a>
+                        <div class="new_prod_bg">
+                        <span class="new_icon"><img src="images/new_icon.gif" alt="" title="" /></span>
+                        <a href="details.html"><img src="images/thumb2.gif" alt="" width="132" height="103" class="thumb" title="" border="0" /></a>
+                        </div>           
+                    </div>                    
+                    
+                    <div class="new_prod_box">
+                        <a href="details.html">&#22823;&#26463;&#32418;&#29611;&#29808;</a>
+                        <div class="new_prod_bg">
+                        <span class="new_icon"><img src="images/new_icon.gif" alt="" title="" /></span>
+                        <a href="details.html"><img src="images/thumb3.gif" alt="" width="130" height="103" class="thumb" title="" border="0" /></a>
+                        </div>           
+                    </div>
+                    
+                    <div class="new_prod_box">
+                        <a href="details.html">&#29233;&#24515;&#24039;&#20811;&#21147;2</a>
+                        <div class="new_prod_bg">
+                        <span class="new_icon"><img src="images/new_icon.gif" alt="" title="" /></span>
+                        <a href="details.html"><img src="images/thumb2.gif" alt="" width="128" height="98" class="thumb" title="" border="0" /></a>
+                        </div>           
+                    </div>
+                    
+                    <div class="new_prod_box">
+                        <a href="details.html">&#29233;&#24515;&#24039;&#20811;&#21147;3</a>
+                        <div class="new_prod_bg">
+                        <span class="new_icon"><img src="images/new_icon.gif" alt="" title="" /></span>
+                        <a href="details.html"><img src="images/thumb2.gif" alt="" width="129" height="88" class="thumb" title="" border="0" /></a>
+                        </div>           
+                    </div>                    
+                    
+                    <div class="new_prod_box">
+                        <a href="details.html">&#31881;&#33394;&#29233;&#24515;</a>
+                        <div class="new_prod_bg">
+                        <span class="new_icon"><img src="images/new_icon.gif" alt="" title="" /></span>
+                        <a href="details.html"><img src="images/thumb1.gif" alt="" width="134" height="96" class="thumb" title="" border="0" /></a>
+                        </div>           
+                    </div>                    
+                    
+                              
+            
+            </div> 
+          
+            
+        <div class="clear"></div>
+        </div><!--end of left content-->
+        
+        <div class="right_content">
+        	<div class="languages_box"></div>
+                <div class="currency"></div>
+                
+                
+              <div class="cart">
+                  <div class="title"><span class="title_icon"><img src="images/cart.gif" alt="" title="" /></span>&#36141;&#29289;&#36710;</div>
+                  <div class="home_cart_content"></div>
+              </div>
+             <div class="about">
+             <p>
+             <img src="images/about.gif" alt="" width="55" height="122" class="right" title="" />&#29611;&#29808;&#21407;&#20135;&#20013;&#22269;&#65292;&#26685;&#22521;&#21382;&#21490;&#24736;&#20037;&#12290;&#22312;&#26893;&#29289;&#20998;</p>
+             <p>&#31867;&#23398;&#19978;&#26159;&#19968;&#31181;&#34103;&#34183;&#31185;&#34103;&#34183;&#23646;&#28748;&#26408;(Rosa rugosa)&#65292;&#22312;&#26085;&#24120;&#29983;&#27963;&#20013;&#26159;&#34103;&#34183;&#23646;&#19968;&#31995;&#21015;</p>
+             <p>&#33457;&#22823;&#33395;&#20029;&#30340;&#26685;&#22521;&#21697;&#31181;&#30340;&#32479;&#31216;&#65292;&#36825;&#20123;&#26685;&#22521;&#21697;</p>
+             <p>&#31181;&#20134;&#21487;&#31216;&#20570;&#26376;&#23395;&#25110;&#34103;&#34183;&#12290; </p>
+             
+             </div>
+             
+             <div class="right_box">
+             
+             	<div class="title"><span class="title_icon"><img src="images/bullet4.gif" alt="" width="61" height="30" title="" /></span>&#20419;&#38144;</div> 
+                    <div class="new_prod_box">
+                        <a href="details.html">&#29233;&#24515;&#31881;&#29611;&#29808;</a>
+                        <div class="new_prod_bg">
+                        <span class="new_icon"><img src="images/promo_icon.gif" alt="" title="" /></span>
+                        <a href="details.html"><img src="images/thumb1.gif" alt="" width="133" height="115" class="thumb" title="" border="0" /></a>
+                        </div>           
+                    </div>
+                    
+                    <div class="new_prod_box">
+                        <a href="details.html">&#24039;&#20811;&#21147;&#29233;&#24515;</a>
+                        <div class="new_prod_bg">
+                        <span class="new_icon"><img src="images/promo_icon.gif" alt="" title="" /></span>
+                        <a href="details.html"><img src="images/thumb2.gif" alt="" width="135" height="115" class="thumb" title="" border="0" /></a>
+                        </div>           
+                    </div>                    
+                    
+                    <div class="new_prod_box">
+                        <a href="details.html">&#32418;&#29611;&#29808;</a>
+                        <div class="new_prod_bg">
+                        <span class="new_icon"><img src="images/promo_icon.gif" alt="" title="" /></span>
+                        <a href="details.html"><img src="images/thumb3.gif" alt="" width="119" height="92" class="thumb" title="" border="0" /></a>
+                        </div>           
+                    </div>              
+             
+             </div>
+             
+             <div class="right_box">
+             
+             	<div class="title"></div>
+</div>         
+             
+        
+        </div><!--end of right content-->
+        
+        
+       
+       
+       <div class="clear"></div>
+       </div><!--end of center content-->
+       
+              
+       <div class="footer">
+       	<div class="left_footer"></div>
+        <div class="right_footer">
+        <a href="#">&#20027;&#39029;</a>
+        <a href="#">&#20851;&#20110;&#25105;&#20204;</a>
+        <a href="#">&#26381;&#21153;&#26465;&#27454;</a>
+        <a href="#">&#27861;&#24459;&#25919;&#31574;</a>
+        <a href="#">&#32852;&#31995;&#25105;&#20204;</a>
+       
+        </div>
+        
+       
+       </div>
+    
+
+</div>
+
